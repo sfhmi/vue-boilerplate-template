@@ -1,9 +1,13 @@
-// custom colors variables 
+// WARNING!!
+// REMOVING OR CHANGE THE CSS STRUCTURE CAN BREAK THE APP
+
+// CUSTOM COLOR COMPONENTS
 @import './styles/variables';
 
-// default boostrap variables goes here
+// DEFAULT BOOTSTRAP VARIABLES
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-// custom styles component goes here
-@import './styles/cards';
+// CUSTOM COMPONENTS 
+// EXAMPLE
+// @import './styles/components/cards';
 
